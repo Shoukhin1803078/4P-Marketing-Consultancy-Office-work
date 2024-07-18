@@ -1,0 +1,6 @@
+In this code take the final output. and give me another output1 with my requirements. You should give both of these two output and output1.
+
+
+Here is my requirements:
+
+take the final output and perform bellow operations:
