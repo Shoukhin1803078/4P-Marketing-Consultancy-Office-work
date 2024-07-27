@@ -6,3 +6,7 @@ https://www.youtube.com/watch?v=z_dbnYHAQYg
 
 Eitate amr requirement er motoi hubuhu korse:
 https://github.com/jomariya23156/face-recognition-with-liveness-web-login
+
+
+Krish naik: python flask:
+https://github.com/krishnaik06/Flask-Web-Framework
